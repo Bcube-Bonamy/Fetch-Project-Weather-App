@@ -25,7 +25,7 @@ const card = document.querySelector('.card');
  });
 
  async function getWeatherData(city){
-    const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}`;
+    const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${}`;
 
     const response = await fetch(apiUrl);
 
