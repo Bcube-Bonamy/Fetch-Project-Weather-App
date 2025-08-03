@@ -1,6 +1,6 @@
 # Fetch Project Weather App
 
-This contains a deactivated api key.
+This is broken bcuz i removed the api key lmaoo
 
 Here is the link to the site https://bcube-bonamy.github.io/Fetch-Project-Weather-App
 
